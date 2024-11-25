@@ -1,0 +1,307 @@
+,state_idx,location,year,currency,funding
+0,01,Alabama,2018,Dollars,57.23
+1,01,Alabama,2019,Dollars,54.25
+2,01,Alabama,2020,Dollars,46.81
+3,01,Alabama,2021,Dollars,52.35
+4,01,Alabama,2022,Dollars,49.48
+5,01,Alabama,2023,Dollars,51.89
+6,02,Alaska,2018,Dollars,96.52
+7,02,Alaska,2019,Dollars,98.25
+8,02,Alaska,2020,Dollars,215.15
+9,02,Alaska,2021,Dollars,90.17
+10,02,Alaska,2022,Dollars,91.15
+11,02,Alaska,2023,Dollars,87.85
+12,04,Arizona,2018,Dollars,9.66
+13,04,Arizona,2019,Dollars,15.25
+14,04,Arizona,2020,Dollars,24.34
+15,04,Arizona,2021,Dollars,15.32
+16,04,Arizona,2022,Dollars,16.57
+17,04,Arizona,2023,Dollars,28.15
+18,05,Arkansas,2018,Dollars,50.57
+19,05,Arkansas,2019,Dollars,48.23
+20,05,Arkansas,2020,Dollars,45.9
+21,05,Arkansas,2021,Dollars,42.94
+22,05,Arkansas,2022,Dollars,45.34
+23,05,Arkansas,2023,Dollars,44.89
+24,06,California,2018,Dollars,65.71
+25,06,California,2019,Dollars,71.89
+26,06,California,2020,Dollars,69.87
+27,06,California,2021,Dollars,78.47
+28,06,California,2022,Dollars,130.29
+29,06,California,2023,Dollars,84.17
+30,08,Colorado,2018,Dollars,50.3
+31,08,Colorado,2019,Dollars,51.25
+32,08,Colorado,2020,Dollars,55.3
+33,08,Colorado,2021,Dollars,51.48
+34,08,Colorado,2022,Dollars,53.22
+35,08,Colorado,2023,Dollars,73.93
+36,09,Connecticut,2018,Dollars,31.06
+37,09,Connecticut,2019,Dollars,32.47
+38,09,Connecticut,2020,Dollars,35.01
+39,09,Connecticut,2021,Dollars,37.46
+40,09,Connecticut,2022,Dollars,39.16
+41,09,Connecticut,2023,Dollars,41.02
+42,10,Delaware,2018,Dollars,40.78
+43,10,Delaware,2019,Dollars,34.31
+44,10,Delaware,2020,Dollars,36.77
+45,10,Delaware,2021,Dollars,N/A
+46,10,Delaware,2022,Dollars,50.72
+47,10,Delaware,2023,Dollars,50.51
+48,11,Dist. of Columbia,2018,Dollars,134.96
+49,11,Dist. of Columbia,2019,Dollars,363.18
+50,11,Dist. of Columbia,2020,Dollars,364.53
+51,11,Dist. of Columbia,2021,Dollars,370.56
+52,11,Dist. of Columbia,2022,Dollars,421.94
+53,11,Dist. of Columbia,2023,Dollars,423.21
+54,12,Florida,2018,Dollars,18.63
+55,12,Florida,2019,Dollars,18.62
+56,12,Florida,2020,Dollars,19.59
+57,12,Florida,2021,Dollars,19.53
+58,12,Florida,2022,Dollars,19.78
+59,12,Florida,2023,Dollars,22.21
+60,13,Georgia,2018,Dollars,22.42
+61,13,Georgia,2019,Dollars,27.35
+62,13,Georgia,2020,Dollars,27.78
+63,13,Georgia,2021,Dollars,30.82
+64,13,Georgia,2022,Dollars,31.09
+65,13,Georgia,2023,Dollars,34.82
+66,15,Hawaii,2018,Dollars,119.61
+67,15,Hawaii,2019,Dollars,127.36
+68,15,Hawaii,2020,Dollars,125.62
+69,15,Hawaii,2021,Dollars,121.95
+70,15,Hawaii,2022,Dollars,N/A
+71,15,Hawaii,2023,Dollars,75.56
+72,16,Idaho,2018,Dollars,89.11
+73,16,Idaho,2019,Dollars,85.26
+74,16,Idaho,2020,Dollars,84.95
+75,16,Idaho,2021,Dollars,80.74
+76,16,Idaho,2022,Dollars,51.23
+77,16,Idaho,2023,Dollars,44.24
+78,17,Illinois,2018,Dollars,25.95
+79,17,Illinois,2019,Dollars,30.21
+80,17,Illinois,2020,Dollars,32.53
+81,17,Illinois,2021,Dollars,33.85
+82,17,Illinois,2022,Dollars,36.6
+83,17,Illinois,2023,Dollars,43.28
+84,18,Indiana,2018,Dollars,13.9
+85,18,Indiana,2019,Dollars,15.08
+86,18,Indiana,2020,Dollars,15
+87,18,Indiana,2021,Dollars,15.34
+88,18,Indiana,2022,Dollars,15.23
+89,18,Indiana,2023,Dollars,15.16
+90,19,Iowa,2018,Dollars,40.15
+91,19,Iowa,2019,Dollars,82.78
+92,19,Iowa,2020,Dollars,85.37
+93,19,Iowa,2021,Dollars,36.91
+94,19,Iowa,2022,Dollars,37.11
+95,19,Iowa,2023,Dollars,37.26
+96,20,Kansas,2018,Dollars,14.12
+97,20,Kansas,2019,Dollars,13.01
+98,20,Kansas,2020,Dollars,14.73
+99,20,Kansas,2021,Dollars,N/A
+100,20,Kansas,2022,Dollars,18
+101,20,Kansas,2023,Dollars,31.78
+102,21,Kentucky,2018,Dollars,34.23
+103,21,Kentucky,2019,Dollars,35.46
+104,21,Kentucky,2020,Dollars,35.89
+105,21,Kentucky,2021,Dollars,29.64
+106,21,Kentucky,2022,Dollars,29.52
+107,21,Kentucky,2023,Dollars,40.13
+108,22,Louisiana,2018,Dollars,23.98
+109,22,Louisiana,2019,Dollars,24.81
+110,22,Louisiana,2020,Dollars,25.58
+111,22,Louisiana,2021,Dollars,41.21
+112,22,Louisiana,2022,Dollars,24.82
+113,22,Louisiana,2023,Dollars,29.12
+114,23,Maine,2018,Dollars,17.69
+115,23,Maine,2019,Dollars,27.37
+116,23,Maine,2020,Dollars,33.82
+117,23,Maine,2021,Dollars,44.34
+118,23,Maine,2022,Dollars,36.14
+119,23,Maine,2023,Dollars,44.73
+120,24,Maryland,2018,Dollars,42.4
+121,24,Maryland,2019,Dollars,43.13
+122,24,Maryland,2020,Dollars,45.07
+123,24,Maryland,2021,Dollars,108.77
+124,24,Maryland,2022,Dollars,N/A
+125,24,Maryland,2023,Dollars,189.95
+126,25,Massachusetts,2018,Dollars,76.31
+127,25,Massachusetts,2019,Dollars,83.44
+128,25,Massachusetts,2020,Dollars,86.76
+129,25,Massachusetts,2021,Dollars,104.32
+130,25,Massachusetts,2022,Dollars,112.1
+131,25,Massachusetts,2023,Dollars,128.98
+132,26,Michigan,2018,Dollars,15.18
+133,26,Michigan,2019,Dollars,15.17
+134,26,Michigan,2020,Dollars,17.3
+135,26,Michigan,2021,Dollars,19.78
+136,26,Michigan,2022,Dollars,N/A
+137,26,Michigan,2023,Dollars,38.76
+138,27,Minnesota,2018,Dollars,43.99
+139,27,Minnesota,2019,Dollars,39.64
+140,27,Minnesota,2020,Dollars,106.83
+141,27,Minnesota,2021,Dollars,77.33
+142,27,Minnesota,2022,Dollars,58.64
+143,27,Minnesota,2023,Dollars,79.87
+144,28,Mississippi,2018,Dollars,14.38
+145,28,Mississippi,2019,Dollars,15.56
+146,28,Mississippi,2020,Dollars,15.9
+147,28,Mississippi,2021,Dollars,15.73
+148,28,Mississippi,2022,Dollars,16.58
+149,28,Mississippi,2023,Dollars,17.12
+150,29,Missouri,2018,Dollars,7.07
+151,29,Missouri,2019,Dollars,7.13
+152,29,Missouri,2020,Dollars,7.06
+153,29,Missouri,2021,Dollars,6.54
+154,29,Missouri,2022,Dollars,6.46
+155,29,Missouri,2023,Dollars,6.67
+156,30,Montana,2018,Dollars,22.56
+157,30,Montana,2019,Dollars,21.73
+158,30,Montana,2020,Dollars,18.91
+159,30,Montana,2021,Dollars,18.33
+160,30,Montana,2022,Dollars,17.51
+161,30,Montana,2023,Dollars,18.96
+162,31,Nebraska,2018,Dollars,46.54
+163,31,Nebraska,2019,Dollars,38.49
+164,31,Nebraska,2020,Dollars,40.9
+165,31,Nebraska,2021,Dollars,40.33
+166,31,Nebraska,2022,Dollars,44.13
+167,31,Nebraska,2023,Dollars,44.8
+168,32,Nevada,2018,Dollars,8.49
+169,32,Nevada,2019,Dollars,10.76
+170,32,Nevada,2020,Dollars,12.19
+171,32,Nevada,2021,Dollars,13.52
+172,32,Nevada,2022,Dollars,10.05
+173,32,Nevada,2023,Dollars,N/A
+174,33,New Hampshire,2018,Dollars,22.85
+175,33,New Hampshire,2019,Dollars,21.4
+176,33,New Hampshire,2020,Dollars,23.61
+177,33,New Hampshire,2021,Dollars,24.72
+178,33,New Hampshire,2022,Dollars,22.77
+179,33,New Hampshire,2023,Dollars,23.82
+180,34,New Jersey,2018,Dollars,28.29
+181,34,New Jersey,2019,Dollars,29.21
+182,34,New Jersey,2020,Dollars,31.25
+183,34,New Jersey,2021,Dollars,32.44
+184,34,New Jersey,2022,Dollars,38.05
+185,34,New Jersey,2023,Dollars,43.06
+186,35,New Mexico,2018,Dollars,135.32
+187,35,New Mexico,2019,Dollars,139.6
+188,35,New Mexico,2020,Dollars,151.15
+189,35,New Mexico,2021,Dollars,159.25
+190,35,New Mexico,2022,Dollars,149.39
+191,35,New Mexico,2023,Dollars,234.74
+192,36,New York,2018,Dollars,83.99
+193,36,New York,2019,Dollars,83.21
+194,36,New York,2020,Dollars,84.87
+195,36,New York,2021,Dollars,92.44
+196,36,New York,2022,Dollars,92.27
+197,36,New York,2023,Dollars,99.95
+198,37,North Carolina,2018,Dollars,15.31
+199,37,North Carolina,2019,Dollars,14.93
+200,37,North Carolina,2020,Dollars,15.05
+201,37,North Carolina,2021,Dollars,14.8
+202,37,North Carolina,2022,Dollars,15.9
+203,37,North Carolina,2023,Dollars,16.61
+204,38,North Dakota,2018,Dollars,54.1
+205,38,North Dakota,2019,Dollars,58.6
+206,38,North Dakota,2020,Dollars,61.44
+207,38,North Dakota,2021,Dollars,61.18
+208,38,North Dakota,2022,Dollars,72.35
+209,38,North Dakota,2023,Dollars,72.26
+210,39,Ohio,2018,Dollars,13.14
+211,39,Ohio,2019,Dollars,14.01
+212,39,Ohio,2020,Dollars,15.8
+213,39,Ohio,2021,Dollars,24
+214,39,Ohio,2022,Dollars,45.19
+215,39,Ohio,2023,Dollars,29.71
+216,40,Oklahoma,2018,Dollars,38.99
+217,40,Oklahoma,2019,Dollars,43.61
+218,40,Oklahoma,2020,Dollars,55.89
+219,40,Oklahoma,2021,Dollars,89.47
+220,40,Oklahoma,2022,Dollars,66.82
+221,40,Oklahoma,2023,Dollars,66.57
+222,41,Oregon,2018,Dollars,28.04
+223,41,Oregon,2019,Dollars,35.25
+224,41,Oregon,2020,Dollars,35.11
+225,41,Oregon,2021,Dollars,35.51
+226,41,Oregon,2022,Dollars,51.98
+227,41,Oregon,2023,Dollars,181.96
+228,42,Pennsylvania,2018,Dollars,14.5
+229,42,Pennsylvania,2019,Dollars,15.06
+230,42,Pennsylvania,2020,Dollars,14.99
+231,42,Pennsylvania,2021,Dollars,15.75
+232,42,Pennsylvania,2022,Dollars,16.68
+233,42,Pennsylvania,2023,Dollars,17.77
+234,44,Rhode Island,2018,Dollars,52.96
+235,44,Rhode Island,2019,Dollars,57.26
+236,44,Rhode Island,2020,Dollars,59.16
+237,44,Rhode Island,2021,Dollars,N/A
+238,44,Rhode Island,2022,Dollars,284.53
+239,44,Rhode Island,2023,Dollars,63.2
+240,45,South Carolina,2018,Dollars,26.13
+241,45,South Carolina,2019,Dollars,27.03
+242,45,South Carolina,2020,Dollars,27.51
+243,45,South Carolina,2021,Dollars,27.15
+244,45,South Carolina,2022,Dollars,28.29
+245,45,South Carolina,2023,Dollars,28.91
+246,46,South Dakota,2018,Dollars,35.06
+247,46,South Dakota,2019,Dollars,35.48
+248,46,South Dakota,2020,Dollars,36.04
+249,46,South Dakota,2021,Dollars,37.06
+250,46,South Dakota,2022,Dollars,37.95
+251,46,South Dakota,2023,Dollars,40.63
+252,47,Tennessee,2018,Dollars,49.55
+253,47,Tennessee,2019,Dollars,51.24
+254,47,Tennessee,2020,Dollars,55.38
+255,47,Tennessee,2021,Dollars,70.35
+256,47,Tennessee,2022,Dollars,57.27
+257,47,Tennessee,2023,Dollars,72.58
+258,48,Texas,2018,Dollars,16.92
+259,48,Texas,2019,Dollars,17.16
+260,48,Texas,2020,Dollars,20.41
+261,48,Texas,2021,Dollars,17.91
+262,48,Texas,2022,Dollars,23.33
+263,48,Texas,2023,Dollars,16.84
+264,49,Utah,2018,Dollars,33.44
+265,49,Utah,2019,Dollars,33.02
+266,49,Utah,2020,Dollars,35.46
+267,49,Utah,2021,Dollars,N/A
+268,49,Utah,2022,Dollars,33
+269,49,Utah,2023,Dollars,34.92
+270,50,Vermont,2018,Dollars,47.41
+271,50,Vermont,2019,Dollars,49.2
+272,50,Vermont,2020,Dollars,52.61
+273,50,Vermont,2021,Dollars,56.18
+274,50,Vermont,2022,Dollars,59.66
+275,50,Vermont,2023,Dollars,61.74
+276,51,Virginia,2018,Dollars,38.08
+277,51,Virginia,2019,Dollars,39.6
+278,51,Virginia,2020,Dollars,36.26
+279,51,Virginia,2021,Dollars,41.98
+280,51,Virginia,2022,Dollars,43.93
+281,51,Virginia,2023,Dollars,47.09
+282,53,Washington,2018,Dollars,46.05
+283,53,Washington,2019,Dollars,45.62
+284,53,Washington,2020,Dollars,47.95
+285,53,Washington,2021,Dollars,89
+286,53,Washington,2022,Dollars,69.35
+287,53,Washington,2023,Dollars,69.33
+288,54,West Virginia,2018,Dollars,59.61
+289,54,West Virginia,2019,Dollars,58.74
+290,54,West Virginia,2020,Dollars,62.83
+291,54,West Virginia,2021,Dollars,N/A
+292,54,West Virginia,2022,Dollars,77.61
+293,54,West Virginia,2023,Dollars,N/A
+294,55,Wisconsin,2018,Dollars,17.43
+295,55,Wisconsin,2019,Dollars,17.38
+296,55,Wisconsin,2020,Dollars,17.67
+297,55,Wisconsin,2021,Dollars,17.47
+298,55,Wisconsin,2022,Dollars,19.4
+299,55,Wisconsin,2023,Dollars,19.23
+300,56,Wyoming,2018,Dollars,53.37
+301,56,Wyoming,2019,Dollars,50.44
+302,56,Wyoming,2020,Dollars,28.74
+303,56,Wyoming,2021,Dollars,27.23
+304,56,Wyoming,2022,Dollars,23.18
+305,56,Wyoming,2023,Dollars,33.44
